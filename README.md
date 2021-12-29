@@ -1,4 +1,4 @@
-# Gexo (previously ~~Fugu~~15) - ????-tethered (probably rootless) iOS 15 Jailbreak.
+# Gexo (previously ~~Fugu~~15) - ????-tethered iOS 15 Jailbreak.
 
 Gexo is an (most definitely incomplete) iOS 15 Jailbreak, including an ~~untether (persistence),~~ kernel exploit, kernel PAC bypass and PPL bypass.
 The CVE numbers of the vulnerabilities I used are: CVE-2021-30883 & CVE-2021-30955
