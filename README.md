@@ -8,4 +8,4 @@ The CVE numbers of the vulnerabilities I used are: CVE-2021-30883 & CVE-2021-309
 Gexo *should* support all arm64e devices (iPhone XS and newer) on iOS 15, 15.0.1, ~~15.0.2~~, & 15.1 Beta 1, 2, 3, 15.1 Final & 15.1.1 (A14-A15).
 
 arm64 devices are not supported because the exploit does not work on these devices.  
-However, it is possible to jailbreak arm64 devices with [checkra1n](https://checkra.in){:target="_blank"} (it works on iOS 12 and up other than ~~14.8.1~~ & 15.x)
+However, it is possible to jailbreak arm64 devices with <a href="https://checkra.in" target="_blank">checkra1n</a> (it works on iOS 12 and up other than ~~14.8.1~~ & 15.x)
